@@ -1,0 +1,16 @@
+{
+  "name": "testgpt_firebase_genkit",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@genkit-ai/firebase": "^0.9.12",
+    "@genkit-ai/googleai": "^0.9.12",
+    "genkit": "^0.9.12"
+  }
+}
